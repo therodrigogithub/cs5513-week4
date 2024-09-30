@@ -1,4 +1,4 @@
-//parallel page to index.js that loads data2 file in order to extract data from a second json file persons2.json
+//parallel page to index.js that loads data2 file in order to extract data from a second json file named persons2.json
 import Link from 'next/link';
 import Layout from '../components/layout';
 import { getSortedList2} from '../lib/data2';
